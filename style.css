@@ -81,7 +81,6 @@ button {
   margin: 40px;
   background-color: #F8F8FF;
   border-radius: 10px;
-  cursor: pointer;
 }
 
 
@@ -210,6 +209,7 @@ footer {
     padding: 0.4rem 0.8rem;
   }
 }
+
 
 
 
